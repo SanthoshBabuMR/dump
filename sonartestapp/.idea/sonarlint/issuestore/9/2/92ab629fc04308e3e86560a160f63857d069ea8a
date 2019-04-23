@@ -1,0 +1,20 @@
+
+d
+AWpFlYe0XOneWZRrT2-gsquid:S1444"+Make this "public static users" field final(Ê›†úøÿÿÿÿ8øÃÕ¬¤-
+l
+AWpFsMrEXOneWZRrT3xW
+squid:S106 "9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8ìÂ­¤-
+l
+AWpFwXF3XOneWZRrT30T
+squid:S106""9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8°¿…®¤-
+V
+AWpFlYe1XOneWZRrT2-jsquid:S2386"Make this member "protected".(Ê›†úøÿÿÿÿ8øÃÕ¬¤-
+l
+AWpFsMrFXOneWZRrT3xX
+squid:S106*"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8ìÂ­¤-
+z
+AWpFwINLXOneWZRrT3zqsquid:S1192 "FDefine a constant instead of duplicating this literal "hello" 3 times.(£ÆÏÁ8€Û®¤-
+¡
+AWpFlYe1XOneWZRrT2-h"squid:ClassVariableVisibilityCheck"QMake users a static final constant or non-public and provide accessors if needed.(Ê›†úøÿÿÿÿ8øÃÕ¬¤-
+s
+AWpFlYe1XOneWZRrT2-isquid:S1118":Add a private constructor to hide the implicit public one.(ò†Ììúÿÿÿÿ8øÃÕ¬¤-

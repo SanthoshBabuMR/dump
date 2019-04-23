@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.babusa.S.sonartestapp.main" target="1.8" />
+      <module name="com.babusa.S.sonartestapp.test" target="1.8" />
+      <module name="com.babusa.SonarTestA.sonartestapp.main" target="1.8" />
+      <module name="com.babusa.SonarTestA.sonartestapp.test" target="1.8" />
+      <module name="com.babusa.sonartestapp.sonartestapp.main" target="1.8" />
+      <module name="com.babusa.sonartestapp.sonartestapp.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

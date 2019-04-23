@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+    id "org.sonarqube" version "2.7"
+    id "org.jetbrains.intellij" version "0.0.17"
+}
+
+
+group 'com.babusa.SonarTestApp'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.0'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+// gradlew sonarqube -Dsonar.projectKey=SonarTestApp -Dsonar.host.url=http://localhost:9000 -Dsonar.login=5fbd3fbcf15db3a51bb93ca99dfde6297c89d5e3
